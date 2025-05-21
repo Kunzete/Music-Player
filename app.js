@@ -32,7 +32,7 @@ let songs = [
     {songName: "Passo Bem Solto", filePath: "Songs/ATLXS - PASSO BEM SOLTO (Slowed).mp3", coverPath: "Cover/Passo Bem Solto.png"},
     {songName: "Dare ( Super Slowed )", filePath: "Songs/DARE  (SUPER SLOWED).mp3", coverPath: "Cover/Dare.jpeg"},
     {songName: "Farazi Dobro - Vecer", filePath: "Songs/Farazi  Dobro - Vecer  (Slowed + Reverb) - Echoes of Entertainment.mp3", coverPath: "Cover/Farazi Dobro.jpg"},
-    {songName: "Fiesta Dedo Maga", filePath: "Songs/Fiesta+Dedo+Maga+(slowed+and+reverb)+#slowedandrever+#slowedandreverb+#slowedreverb+#slowedsongs.m4a", coverPath: "Cover/Fiesta Dedo Maga.jpg"},
+    {songName: "Fiesta Dedo Maga", filePath: "Songs/Fiesta Dedo Maga.m4a", coverPath: "Cover/Fiesta Dedo Maga.jpg"},
     {songName: "Funk De Beleza ( Slowed )", filePath: "Songs/Fun De Beleza ( Slowed ).mp3", coverPath: "Cover/Funk De Beleza.jpg"},
     {songName: "Funk Da Montanha ( Super Slowed )", filePath: "Songs/𝙁𝙐𝙉𝙆 𝘿𝘼 𝙈𝙊𝙉𝙏𝘼𝙉𝙃𝘼 (𝙎𝙐𝙋𝙀𝙍 𝙎𝙇𝙊𝙒𝙀𝘿) - 𝙎𝙑𝙀𝙫𝙤.mp3", coverPath: "Cover/Funk De MonTanha.jpeg"},
     {songName: "Government Hooker - Lady Gaga", filePath: "Songs/Government Hooker - Lady Gaga [Edit Audio] (D00nik Remix) - HanEditx.mp3", coverPath: "Cover/Government Hooker.jpg"},
@@ -44,7 +44,7 @@ let songs = [
     {songName: "Nunca Muda ( Slowed )", filePath: "Songs/NUNCA MUDA (SLOWED) - SLOWERB.mp3", coverPath: "Cover/Nunca Muda.jpg"},
     {songName: "Risada Chuck 01", filePath: "Songs/RISADA CHUCK 01 - -Prey.mp3", coverPath: "Cover/Risada.jpeg"},
     {songName: "Under Your Spell - Snow Strippers", filePath: "Songs/under your spell - snow strippers [edit audio] - ENcore EditZz.mp3", coverPath: "Cover/Under your spell.jpeg"},
-    {songName: "Vidrado Em Voce - TikTok Version", filePath: "Songs/Vidrado+Em+Voce+(tiktok+version)+-++dj+guuga+&+mc+livinho+[edit+audio].m4a", coverPath: "Cover/Vidrado Em Voce.jpeg"},
+    {songName: "Vidrado Em Voce - TikTok Version", filePath: "Songs/Vidrado Em Voce.m4a", coverPath: "Cover/Vidrado Em Voce.jpeg"},
     {songName: "Years and Years - Breathe ( Spedup )", filePath: "Songs/Years & Years - Breathe (sped up) - Kn1ght.mp3", coverPath: "Cover/Breathe.jpeg"},
 ];
 
